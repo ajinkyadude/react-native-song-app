@@ -3,8 +3,7 @@ import { Text, View } from "react-native"
 const GitIgnore = () => {
     return(
         <View> 
-            <Text>Change text</Text>
-            
+            <Text>Royal Enfield</Text>
         </View>
     )
 }
